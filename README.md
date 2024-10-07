@@ -25,6 +25,9 @@ STEP 6: Use zscore of to remove outliers
 
             
 ![Screenshot 2024-10-07 113516](https://github.com/user-attachments/assets/d945f2da-b7cb-4a67-bb7a-a6197fbaeb3d)
+![Screenshot 2024-10-07 114642](https://github.com/user-attachments/assets/cf29828e-5ccc-4537-adc4-bb45f4828de1)
+
+
 
 # Result
           <<include your Result here>>
